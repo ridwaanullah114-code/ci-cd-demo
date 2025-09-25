@@ -1,7 +1,7 @@
 import hello
 
 def test_hello():
-    assert hello.hello() == "Hello, CI/CD World!"
+    assert hello.hello() == "Hello, CI/CD World - Update 1!"
 
 def test_add():
     assert hello.add(2, 3) == 5
