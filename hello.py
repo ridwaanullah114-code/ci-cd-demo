@@ -1,5 +1,5 @@
 def hello():
-    return "Hello, CI/CD World!-update 1"
+    return "Hello, CI/CD World - Update 1!"
 
 def add(a, b):
     return a + b
